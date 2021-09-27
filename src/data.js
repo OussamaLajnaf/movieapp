@@ -1,0 +1,58 @@
+export const moviesdata = [
+    {
+        id: Math.random(),
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmGznkg9IcGlFoLUJWLvRHLxq9FNvcHHOOTQ&usqp=CAU",
+        rating: 3,
+        name: "La furie d'un homme",
+        type: "Action" ,
+    },
+    {
+        id: Math.random(),
+        image: "https://photos.lci.fr/images/1080/1920/avatar-20200529-1230-dfbd51-0@1x.jpeg",
+        rating: 4,
+        name: "Avatar",
+        type: "Action" ,
+    },
+    {
+        id: Math.random(),
+        image: "https://creativereview.imgix.net/content/uploads/2019/12/joker_full.jpg?auto=compress,format&q=60&w=1012&h=1500",
+        rating: 5,
+        name:"Joker",
+        type:"Action",
+    },
+    {
+        id: Math.random(),
+        image: "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/108b520c55e3c9760f77a06110d6a73b_240x360_crop_center.progressive.jpg?v=1573652543",
+        rating: 4,
+        name:"Avenger EndGame",
+        type:"Adventure",
+    },
+    {
+        id: Math.random(),
+        image: "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/horror-movie-poster-template-design-54cb43786dd61be7b116ae06e5815b17_screen.jpg?ts=1582777270",
+        rating: 4,
+        name:"Sinister",
+        type:"Horror",
+    },
+    {
+        id: Math.random(),
+        image: "https://cdn.europosters.eu/image/750/posters/game-of-thrones-daenerys-for-the-throne-i72507.jpg",
+        rating: 4,
+        name:"Game Of Thrones",
+        type:"Serie",
+    },
+    {
+        id: Math.random(),
+        image: "https://fr.web.img5.acsta.net/pictures/19/07/22/09/56/1827026.jpg",
+        rating: 5,
+        name:"La Casa de Papel",
+        type:"Serie",
+    },
+    {
+        id: Math.random(),
+        image: "https://m.media-amazon.com/images/I/91c1wgOlNdL._AC_SX466_.jpg",
+        rating: 5,
+        name:"One Piece",
+        type:"Anime",
+    },
+];
